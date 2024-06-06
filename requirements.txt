@@ -1,0 +1,6 @@
+wikipedia-api
+pillow
+requests
+opencv-python
+numpy
+tkinter
